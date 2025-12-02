@@ -21,6 +21,21 @@
 - 工程落地：在 Windows/Linux 环境下成功复现 16 个 GitHub 开源项目，熟练掌握复杂项目搭建与调试流程；
 - 性能验证：在 29 个数据集上与 8 种主流方法对比，聚类效果显著优化，ARI 指标从 0.6 提升至 0.68（提升 13%）；
 - 成果转化：论文已投稿至1 区 Top 期刊。
+### 💻 技术栈
+- 3年Python开发经验，已实现多个自主化代码；
+- 1年Linux开发经验，熟悉shell脚本开发；
+- 熟练掌握pytorch，LangChain，LangGraph开发。
+
+### 🏆 竞赛成果
+- 2021 年亚太杯数学建模国家一等奖、全国大学生数学建模省一等奖、全国大学生数学竞赛校二等奖；
+- 2022 年美国国际大学生数学建模国家一等奖（M 奖）、MathorCup 数学建模国家二等奖；
+- 2023 年全国大学生数学建模省一等奖、MathorCup 大数据竞赛国家二等奖；
+- 2024 年华为杯数学建模国家三等奖、应用统计案例大赛国家二等奖。
+
+### 📫 联系方式
+邮箱：chenxdszu@163.com
+GitHub：CHENszu
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
