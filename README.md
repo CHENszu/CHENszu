@@ -21,7 +21,7 @@
 - 模型创新：受到大模型SmoothQuant的启发，基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
 - 工程落地：在 Windows/Linux 环境下成功复现 16 个 GitHub 开源项目，熟练掌握复杂项目搭建与调试流程；
 - 性能验证：在 29 个数据集上与 8 种主流方法对比，聚类效果显著优化，ARI 指标从 0.6 提升至 0.68（提升 13%）；
-- 成果转化：论文已投稿至1 区 Top 期刊。
+- 成果转化：论文中科院 1 区 Top 期刊在审。
 --- 
 ### 💻 技术栈
 - 3年Python开发经验，已实现多个自主化代码；
@@ -37,18 +37,11 @@
 ### 📚 其他信息
 - 英语等级：CET6；
 - 职务担当：本科担任学习委员，研究生担任班长；
-- 社会经历：2022和2023年两段暑期支教经历,2024和2025两段CCF参会经历；
-- 实验室算力资源充足：L40(48G)*5,A100(80G)*2.
+- 社会经历：2022 和 2023 年两段暑期支教经历, 2024 和 2025 年两段CCF参会经历；
+- 实验室算力资源充足：L40(48G)*5, A100(80G)*2.
 --- 
 ### 📫 联系方式
 邮箱：chenxdszu@163.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...✨
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭🌱👯🤔💬 ✨😄⚡
 
