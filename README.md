@@ -33,7 +33,7 @@
 - 2024 年华为杯数学建模国家三等奖、应用统计案例大赛国家二等奖。
 
 ### 📫 联系方式
-邮箱：chenxdszu@163.com
+邮箱：chenxdszu@163.com  
 GitHub：CHENszu
 
 - 🔭 I’m currently working on ...
