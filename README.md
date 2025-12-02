@@ -1,7 +1,8 @@
 ## Hi there 👋 我是陈旭东（深大研二），统计转算法ing~
 
 <!--
-**CHENszu/CHENszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+您好呀，我是一名01年的程序员：
+✨**教育经历**
 
 Here are some ideas to get you started:
 
