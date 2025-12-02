@@ -30,7 +30,7 @@
 - 1年Linux开发经验，熟悉shell脚本开发；
 - 熟练掌握[pytorch](https://github.com/CHENszu/pytorch/blob/main/Easy%20Learn.pdf)，LangChain，LangGraph框架。
 --- 
-### 🏆 竞赛成果
+### 🏆 竞赛成果（获得深大2W经费支持）
 - 2021 年亚太杯数学建模国家一等奖、全国大学生数学建模省一等奖、全国大学生数学竞赛校二等奖；
 - 2022 年美国国际大学生数学建模国家一等奖（M 奖）、MathorCup 数学建模国家二等奖；
 - 2023 年全国大学生数学建模省一等奖、MathorCup 大数据竞赛国家二等奖；
