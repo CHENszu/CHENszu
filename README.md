@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 我是陈旭东（深大研二），统计转算法ing~
 
 <!--
 **CHENszu/CHENszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
