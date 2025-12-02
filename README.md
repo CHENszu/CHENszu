@@ -25,7 +25,7 @@
 - 成果转化：论文中科院 1 区 Top 期刊在审。
 --- 
 ### 💻 技术栈
-- 3年Python开发经验，已实现多个自主化代码；
+- 3年Python开发经验，已实现多个[自主化代码](https://github.com/CHENszu?tab=repositories)；
 - 1年Linux开发经验，熟悉shell脚本开发；
 - 熟练掌握pytorch，LangChain，LangGraph框架。
 --- 
