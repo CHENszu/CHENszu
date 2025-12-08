@@ -15,13 +15,13 @@
 - 制作标准化教学 PPT（精通母版应用 + 专业绘图），线下课堂教学指导学生完成 Python 虚拟环境、PyTorch框架搭建;
 
 **新分享科技服务(深圳)有限公司 | AI算法实习生 | 2025.09 - 至今**
-- 自主完成大模型的部署，微调，根据产品的需求实现相应的接口实现（OCR文档自动对比，OCR文档表格识别）；
+- 自主完成大模型的部署，微调，根据产品的需求实现相应的接口实现（OCR文档自动对比，OCR表格文字换行[解决方案](https://github.com/CHENszu/HunyuanocrPixel)）；
 - 金融领域智能体客服，基于LangChain框架实现对金融文档的检索，并有根据回答用户金融问题，语音对话正在调试优化；
 - 优化公司内部的大模型的使用：[Dbao](https://github.com/CHENszu/Dbao)大模型拥有上下文记忆，能够同时处理图片/视频/文本数据，前后端及数据库交互优秀，RAG检索完备，相关Agent已嵌入。
 ---  
 ### 🔬 科研项目
 **GNN空间转录组数据聚类模型研发 | 项目负责人 | 2024.09 - 2025.08**  
-- 模型创新：受到大模型SmoothQuant的启发，基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
+- 模型创新：受到大模型[SmoothQuant](https://github.com/mit-han-lab/smoothquant)的启发，基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
 - 工程落地：在 Windows/Linux 环境下成功复现 16 个 GitHub 开源项目，熟练掌握复杂项目搭建与调试流程；
 - 性能验证：在 29 个数据集上与 8 种主流方法对比，聚类效果显著优化，ARI 指标从 0.6 提升至 0.68（提升 13%）；
 - 成果转化：论文中科院 1 区 Top 期刊在审。
