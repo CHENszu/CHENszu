@@ -29,7 +29,7 @@
 ### 💻 技术栈
 - 3年Python开发经验，已实现多个[自主化代码](https://github.com/CHENszu?tab=repositories)；
 - 1年Linux开发经验，熟悉shell脚本开发；
-- 熟练掌握[pytorch](https://github.com/CHENszu/pytorch/blob/main/Easy%20Learn.pdf)，LangChain，LangGraph框架。
+- 熟练掌握[pytorch](https://github.com/CHENszu/pytorch/blob/main/%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B.pdf)，LangChain，LangGraph框架。
 --- 
 ### 🏆 竞赛成果（获得深大2W经费支持）
 - 2021 年亚太杯数学建模国家一等奖、全国大学生数学建模省一等奖、全国大学生数学竞赛校二等奖；
