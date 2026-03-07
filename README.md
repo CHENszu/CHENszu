@@ -23,7 +23,7 @@
 - 成果转化：论文中科院 1 区 Top 期刊在审。
 --- 
 ### 💻 技术栈
-- Python Linux Git LangChain  
+- Python Git LangChain  
 - 实验室算力资源：L40(48G) *5, A100(80G) *2.
 --- 
 ### 📫 联系方式
