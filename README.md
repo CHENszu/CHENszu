@@ -16,7 +16,8 @@
 * OCR GUI-Agent
 
 **维沃移动通信（深圳）有限公司 | Agent开发实习生 | 2026.02 - 至今**
-* GUI-Agent  
+* GUI-Agent
+--- 
 ### 🔬 科研项目
 **GNN空间转录组数据聚类模型研发 | 项目负责人 | 2024.09 - 2025.08**  
 - 模型创新：基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
