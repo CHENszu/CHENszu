@@ -18,14 +18,12 @@
 
 ### 🔬 科研项目
 **GNN空间转录组数据聚类模型研发 | 项目负责人 | 2024.09 - 2025.08**  
-- 模型创新：受到大模型[SmoothQuant](https://github.com/mit-han-lab/smoothquant)的启发，基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
+- 模型创新：基于 Encoder-Decoder 框架提出了带注意力机制的双重平滑聚类模型[FlatST](https://github.com/CHENszu/FlatST)；
 - 成果转化：论文中科院 1 区 Top 期刊在审。
 --- 
 ### 💻 技术栈
 - Python Linux Git LangChain
 --- 
-- 职务担当：本科担任学习委员，研究生担任班长；
-- 社会经历：2022 和 2023 年两段暑期支教经历, 2024 和 2025 年两段CCF参会经历；
 - 实验室算力资源：L40(48G) *5, A100(80G) *2.
 --- 
 ### 📫 联系方式
