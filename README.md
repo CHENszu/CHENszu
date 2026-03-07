@@ -13,7 +13,7 @@
 * Python Github
 
 **新分享科技服务（深圳）有限公司 | Agent开发实习生 | 2025.09 - 2026.01**
-* OCR GUI-Agent
+* GUI-Agent OCR 
 
 **维沃移动通信（深圳）有限公司 | Agent开发实习生 | 2026.02 - 至今**
 * GUI-Agent
