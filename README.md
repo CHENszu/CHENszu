@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&gradient=8b9fed,c69ce0,df9bd3&height=170&text=Sean%20Chen&fontSize=66&fontColor=ffffff&fontAlignY=32" width="900"/>
+</p>
+  
 ## Hi👋 我是陈旭东（27届），从事于Agent开发
 
 --- 
